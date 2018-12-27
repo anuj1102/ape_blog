@@ -126,7 +126,9 @@
 404	404.html	/^  <h1>404<\/h1>$/;"	h
 404	_site/404.html	/^  <h1>404<\/h1>$/;"	h
 About	_site/about/index.html	/^    <h1 class="post-title">About<\/h1>$/;"	h
+Directions	_recipes/chocolate-chip-cookies.md	/^## Directions$/;"	s
 Feel free to add content and custom Front Matter to this file.	index.md	/^# Feel free to add content and custom Front Matter to this file.$/;"	c
+Ingredients	_recipes/chocolate-chip-cookies.md	/^## Ingredients$/;"	s
 Posts	_site/index.html	/^<h2 class="post-list-heading">Posts<\/h2>$/;"	i
 To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults	index.md	/^# To modify the layout, see https:\/\/jekyllrb.com\/docs\/themes\/#overriding-theme-defaults$/;"	c
 Welcome to Jekyll Ape	_site/index.html	/^        <\/h3><\/li><\/ul>$/;"	j
@@ -144,14 +146,16 @@ blockquote	_site/assets/main.css	/^p, blockquote, pre,$/;"	s
 blockquote > :last-child	_site/assets/main.css	/^  blockquote > :last-child {$/;"	s
 body	_site/assets/main.css	/^body {$/;"	s
 body	_site/assets/main.css	/^body, h1, h2, h3, h4, h5, h6,$/;"	s
+caption: "Photo from [Pexels](https://www.pexels.com)"	_recipes/chocolate-chip-cookies.md	/^  caption: "Photo from [Pexels](https:\/\/www.pexels.com)"$/;"	s
 categories: foo	_posts/2018-12-26-test.md	/^categories: foo$/;"	s
 categories: history	_posts/2018-12-26-welcome-to-jekyll.markdown	/^categories: history$/;"	s
 code	_site/assets/main.css	/^code {$/;"	s
+collection: recipes	recipes.md	/^collection: recipes$/;"	s
 dd	_site/assets/main.css	/^dl, dd, ol, ul, figure {$/;"	s
 dl	_site/assets/main.css	/^dl, dd, ol, ul, figure {$/;"	s
 dl	_site/assets/main.css	/^ul, ol, dl, figure,$/;"	s
 dribbble	_site/assets/minima-social-icons.svg	/^<symbol id="dribbble" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mit/;"	i
-entries_layout: list	categories.md	/^entries_layout: list$/;"	s
+entries_layout: grid	categories.md	/^entries_layout: grid$/;"	s
 entries_layout: list	posts.md	/^entries_layout: list$/;"	s
 facebook	_site/assets/minima-social-icons.svg	/^<symbol id="facebook" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-mit/;"	i
 figcaption	_site/assets/main.css	/^figcaption {$/;"	s
